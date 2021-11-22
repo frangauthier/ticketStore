@@ -1,4 +1,4 @@
-# hello-world
+# Ticket store
 
 ## Project setup
 ```
